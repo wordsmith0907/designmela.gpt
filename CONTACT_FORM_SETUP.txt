@@ -1,0 +1,15 @@
+IMPORTANT FINAL STEP
+
+After uploading the website:
+
+1. Open your website
+2. Submit the contact form once
+3. Go to hello@designmela.com inbox
+4. Open the FormSubmit verification email
+5. Click "Activate Form"
+
+Without activation, emails will NOT send.
+
+After activation:
+All contact form submissions will arrive at:
+hello@designmela.com

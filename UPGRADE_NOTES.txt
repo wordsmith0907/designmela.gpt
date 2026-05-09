@@ -1,0 +1,15 @@
+Designmela Premium Upgrade
+
+Added:
+- Open Graph SEO metadata
+- Twitter metadata
+- Canonical URL
+- robots.txt
+- sitemap.xml
+- Structured schema markup
+- Premium process section
+- Enhanced motion interactions
+- Better hover depth
+- Improved glassmorphism atmosphere
+- Cinematic background layering
+- Scroll reveal animations
